@@ -30,7 +30,7 @@ public class CompositeSWT {
 		{
 
 			Group group1 = new Group(folder, SWT.NONE);
-			group1.setText("录入信息");
+			group1.setText("录入信息2");
 			item.setControl(group1);
 			Label lb3 = new Label(group1, SWT.NONE); // 在分组框中加入组件
 			lb3.setText("姓名：");
